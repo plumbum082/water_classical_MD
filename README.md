@@ -13,5 +13,4 @@ Properties:
 RDF: python plot_RDF.py  
 density: python get_density.py  
 
-i-pi_manual: explanation for MD params in file "input.xml"
 
